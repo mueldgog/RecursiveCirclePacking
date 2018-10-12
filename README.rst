@@ -3,7 +3,7 @@ Recursive Circle Packing instances
 ==================================
 
 This repository contains all instances that have been used for the paper "Exact Methods for Recursive Circle Packing",
-see <https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/6449>.
+see https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/6449.
 
 The randomly generated instances of the paper are contained in 'rand.tar' whereas the real-world instances from the
 real-world application in the tube industry is contained in 'real.tar'. Each instances has the following structure
@@ -17,4 +17,4 @@ real-world application in the tube industry is contained in 'real.tar'. Each ins
     ...
 
 
-For any questions, please contact <benjamin.mueller@zib.de>.
+For any questions, please contact benjamin.mueller@zib.de.
